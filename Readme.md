@@ -32,5 +32,8 @@
 ## 4、医学语料
 - [240万条中文医疗数据集(包括预训练、指令微调和奖励数据集)](https://huggingface.co/datasets/shibing624/medical)
 - [22万条中文医疗对话数据集(华佗项目)](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)
+
+## 5、考试
+
 ## 其他语料库
 
